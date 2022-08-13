@@ -1,0 +1,26 @@
+header
+{
+    background-color: rgb(255, 197, 90);
+    width: 700px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+body
+{
+    background-image: url("https://st.depositphotos.com/1008522/1686/v/600/depositphotos_16867121-stock-illustration-notebook-doodle-design-elements-mega.jpg");
+    background-repeat: repeat;
+}
+
+p
+{
+    background-color: rgb(106, 106, 235);
+    width: 350px;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    border-radius: 25px;
+    position: relative;
+    left: 850px;
+}
